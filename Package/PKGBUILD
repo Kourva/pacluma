@@ -1,4 +1,4 @@
-# Maintainer: Your Name <your_email@example.com>
+Maintainer: Mike Kourva <realkourva@proton.me>
 
 pkgname=pacluma
 pkgver=1.0.0
@@ -10,8 +10,8 @@ license=('MIT')
 
 depends=('python') 
 
-source=("https://github.com/Kourva/pacluma/archive/v$pkgver.tar.gz")
-sha256sums=('INSERT_SHA256SUM_HERE')
+source=("https://github.com/Kourva/pacluma/archive/refs/tags/v$pkgver.tar.gz")
+sha256sums=('201337e2e647414f408cb3fe6327f4c59bb8db0e84282df91e772619ca629205')
 
 build() {
     cd "$srcdir/$pkgname-$pkgver"
