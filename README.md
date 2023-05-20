@@ -24,3 +24,4 @@ sudo bash installer.sh --uninstall
 ```bash
 sudo pacluma package-name
 ```
+![pacluma](https://github.com/Kourva/pacluma/assets/118578799/61e79205-c41a-4793-b7ad-2272defca3b7)
