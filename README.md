@@ -31,6 +31,7 @@ Installed packages are displayed in a darker color, and repository names are sho
 
 ![pacluma](https://github.com/Kourva/pacluma/assets/118578799/61e79205-c41a-4793-b7ad-2272defca3b7)
 
+# Developer :)
 Thank you for taking the time to check out my project! I hope you found it helpful and informative. If you have any questions, feedback, or suggestions, please don't hesitate to get in touch with me. Your comments are always welcome and appreciated.
 
 If you find this project useful, feel free to give it a star to show your support. And if you would like to contribute to the project, please submit a pull request with your changes.
