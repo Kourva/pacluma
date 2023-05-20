@@ -26,6 +26,7 @@ sudo pacluma package-name
 ```
 
 # Preview
-Installed packages are darker and repo names are red, als there is line break between each package
+Installed packages are displayed in a darker color, and repository names are shown in red. There is also a line break between each package.
 <br>
+
 ![pacluma](https://github.com/Kourva/pacluma/assets/118578799/61e79205-c41a-4793-b7ad-2272defca3b7)
