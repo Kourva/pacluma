@@ -4,7 +4,7 @@ Colorful Pacman -Ss for easy identification of installed packages and repository
 # Installation for pacluma
 + **1**. Clone the repository
 ```bash
-git clone https://github.com/kozyol/pacluma
+git clone https://github.com/Kourva/pacluma
 ```
 + **2**. Navigate to script directory
 ```bash
@@ -29,7 +29,7 @@ sudo pacluma package-name
 Installed packages are displayed in a darker color, and repository names are shown in red. There is also a line break between each package.
 <br>
 
-![pacluma](https://github.com/kozyol/pacluma/assets/118578799/61e79205-c41a-4793-b7ad-2272defca3b7)
+![pacluma](https://github.com/Kourva/pacluma/assets/118578799/61e79205-c41a-4793-b7ad-2272defca3b7)
 
 # Developer :)
 Thank you for taking the time to check out my project! I hope you found it helpful and informative. If you have any questions, feedback, or suggestions, please don't hesitate to get in touch with me. Your comments are always welcome and appreciated.
